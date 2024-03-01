@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 32px;
+    width: 100%;
+    margin: 0px;
+    font-family: Goudy Old Style;
+    font-weight: bolder;
+}
+
+canvas {
+    box-shadow: 10px 10px 10px grey;
+    border-radius: 10px;
+    margin-top: 80px;
+}
+
+#back_button {
+    font-size: 30px;
+    border-radius: 20px;
+    float: left;
+}
+
+.info {
+    font-size: 20px;
+    font-family: Goudy Old Style;
+}
